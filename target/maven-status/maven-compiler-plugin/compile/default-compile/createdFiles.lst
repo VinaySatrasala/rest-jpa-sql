@@ -1,0 +1,5 @@
+com\ust\rest_jpa_sql\repository\ProductRepository.class
+com\ust\rest_jpa_sql\service\ProductService.class
+com\ust\rest_jpa_sql\controller\ProductController.class
+com\ust\rest_jpa_sql\model\Product.class
+com\ust\rest_jpa_sql\RestJpaSqlApplication.class
